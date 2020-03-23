@@ -2,7 +2,7 @@ package com.JavaHomeWorks.LukasCuba;
 
 import java.util.Scanner;
 
-public class Main {
+public class Triangle {
 
 
         public static void main (String[] args) {
